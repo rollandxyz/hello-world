@@ -1,5 +1,15 @@
 # hello-world
 
+Grunt vs. Gulp vs. webpack: An Elaborate Comparison of Tools
+https://scotch.io/@VitalyKuprenko/grunt-vs-gulp-vs-webpack-an-elaborate-comparison-of-tools
+
+Webpack — What is it and is it better than Gulp?
+https://blog.vanila.io/webpack-what-is-it-and-is-it-better-than-gulp-375db8011d22
+
+Webpack vs Gulp
+https://buddy.works/blog/webpack-vs-gulp
+
+
 Graph theory (network) library for visualisation and analysis
 
 cytoscape & angular
