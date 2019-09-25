@@ -1,5 +1,6 @@
 ## Some resources
 
+ignore changes to specifc files only on current machine when commit
 https://hashrocket.com/blog/posts/ignore-specific-file-changes-only-on-current-machine-in-git
 
 https://www.exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline-a-guided-tour/
